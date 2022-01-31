@@ -14,6 +14,8 @@ ScratchWeather provides you with weather information in JSON format. OpenWeather
 - **Cloudiness**: The cloudiness in percent.
 
 ...And much more!
+## Keyboard Shortcuts
+- Refresh Weather Data (or just plain Refresh): <kbd>Ctrl</kbd> + <kbd>Enter</kbd>
 ## Credits
 - OpenWeatherMap
 - ScratchWeather Contributors
