@@ -12,3 +12,4 @@
 - Came to a conclusion that ScratchWeather will be worked on a local Git repository, then pushed to GitHub
 - Added refresh keyboard shortcut: <kbd>Ctrl+Enter</kbd>
 - Added thumbnail
+- ScractchWeather will be in private beta until further notice

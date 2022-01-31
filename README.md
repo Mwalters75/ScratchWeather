@@ -14,3 +14,6 @@ ScratchWeather provides you with weather information in JSON format. OpenWeather
 - **Cloudiness**: The cloudiness in percent.
 
 ...And much more!
+## Credits
+- OpenWeatherMap
+- ScratchWeather Contributors
