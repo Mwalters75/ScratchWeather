@@ -12,4 +12,5 @@ ScratchWeather provides you with weather information in JSON format. OpenWeather
 - **Wind speed**: The wind speed in meters per second.
 - **Wind direction**: The wind direction in degrees.
 - **Cloudiness**: The cloudiness in percent.
+
 ...And much more!
