@@ -10,3 +10,4 @@
 ## January 31, 2022
 - Added CHANGELOG.md
 - Came to a conclusion that ScratchWeather will be worked on a local Git repository, then pushed to GitHub
+- Added refresh keyboard shortcut: <kbd>Ctrl+Enter</kbd>
