@@ -1,9 +1,15 @@
 # ScratchWeather
 Weather information on Scratch!
-## How does it work?
-### Fetch (or GET)
-First, ScratchWeather fetches infromation from a great weather API intergrated into ScratchWeather... OpenWeather API! Then, it gets downloaded into the project, then, well, that's it.
-### JSON Extract
-One key thing is that ScratchWeather uses JSON for handling the JSON answer into human-readable text, which is very importatnt, because not everybody would understand JSON!
-### Weather Image Code
-One thing ScratchWeather shares with OpenWeather is it's weather image codes, to show pictures for weather, or a pictogram.
+## How to use ScratchWeather?
+First, let's talk about how to use ScratchWeather. ScratchWeather is a weather project, which aims to give you the latest weather information on Scratch!
+### Fetching weather information
+ScratchWeather fetches weather information from the [OpenWeatherMap](https://openweathermap.org/) API. We're very grateful to [OpenWeatherMap](https://openweathermap.org/) for providing this service! To fetch weather information, you need to provide a city name, or a contry.
+### Weather information
+ScratchWeather provides you with weather information in JSON format. OpenWeatherMap provides the following information:
+- **Weather**: The weather condition.
+- **Temperature**: The temperature in Celicus (this wasn't made in America, people!).
+- **Humidity**: The humidity in percent.
+- **Wind speed**: The wind speed in meters per second.
+- **Wind direction**: The wind direction in degrees.
+- **Cloudiness**: The cloudiness in percent.
+...And much more!
