@@ -13,3 +13,4 @@
 - Added refresh keyboard shortcut: <kbd>Ctrl+Enter</kbd>
 - Added thumbnail
 - ScractchWeather will be in private beta until further notice
+- Added tempature information (in metric)

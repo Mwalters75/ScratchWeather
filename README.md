@@ -7,7 +7,7 @@ ScratchWeather fetches weather information from the [OpenWeatherMap](https://ope
 ### Weather information
 ScratchWeather provides you with weather information in JSON format. OpenWeatherMap provides the following information:
 - **Weather**: The weather condition.
-- **Temperature**: The temperature in Celicus (this wasn't made in America, people!).
+- **Temperature**: The temperature in Metric (this wasn't made in America, people!).
 - **Humidity**: The humidity in percent.
 - **Wind speed**: The wind speed in meters per second.
 - **Wind direction**: The wind direction in degrees.
