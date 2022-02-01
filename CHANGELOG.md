@@ -15,3 +15,11 @@
 - ScractchWeather will be in private beta until further notice
 - Added tempature information (in metric)
 - Patched so-called STE
+## Febuarary 1, 2022
+- Upgraded ScratchWeather to widescreen
+- Updated costumes to fit the new widescreen format
+- Added console logging
+- Fixed bug where sprite from before shows when project is restarted
+- Figured out that the bug was caused by a wrong broadcast
+- Changed hat block, because the bug persisted
+- Putting in a Pen Slider Engine to show progress on re-compiling the JSON
