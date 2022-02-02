@@ -23,3 +23,5 @@
 - Figured out that the bug was caused by a wrong broadcast
 - Changed hat block, because the bug persisted
 - Putting in a Pen Slider Engine to show progress on re-compiling the JSON
+## Feburary 2, 2022
+- Upgraded the <kbd>Ctrl</kbd> key to a TurboWarp Key
