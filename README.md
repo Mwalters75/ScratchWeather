@@ -16,6 +16,8 @@ ScratchWeather provides you with weather information in JSON format. OpenWeather
 ...And much more!
 ## Keyboard Shortcuts
 - Refresh Weather Data (or just plain Refresh): <kbd>Ctrl</kbd> + <kbd>Enter</kbd>
+
+More comming soon!
 ## Credits
 - OpenWeatherMap
 - ScratchWeather Contributors
