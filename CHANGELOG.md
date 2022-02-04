@@ -26,4 +26,6 @@
 - Upgraded Pen Slider Engine to progress bar
 ## Feburary 2, 2022
 - Upgraded the <kbd>Ctrl</kbd> key to a TurboWarp Key
-
+## Feburary 3, 2022
+- Made new slider
+- Removed slider border
