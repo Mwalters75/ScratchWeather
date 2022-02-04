@@ -29,3 +29,4 @@
 ## Feburary 3, 2022
 - Made new slider
 - Removed slider border
+- Added automatic refresh
