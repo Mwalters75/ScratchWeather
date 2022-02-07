@@ -21,3 +21,4 @@ More comming soon!
 ## Credits
 - OpenWeatherMap
 - ScratchWeather Contributors
+- Myself (Mwalters75) for the STE and Pen Slider
