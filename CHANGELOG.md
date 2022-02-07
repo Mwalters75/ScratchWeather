@@ -30,3 +30,5 @@
 - Made new slider
 - Removed slider border
 - Added automatic refresh
+## Feburary 7, 2022
+- Added a backdrop fade out effect when refreshing, and a fade in effect when loaded
