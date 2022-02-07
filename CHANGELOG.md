@@ -32,3 +32,5 @@
 - Added automatic refresh
 ## Feburary 7, 2022
 - Added a backdrop fade out effect when refreshing, and a fade in effect when loaded
+- Fixed the maximum x position to be met (or exceeded) to make a line break from 220 (for 480x360 display) to 300 (640x360)
+- Added a new TurboWarp setting: Remove Fencing (did this so sprites can go over the x and y position limits)
