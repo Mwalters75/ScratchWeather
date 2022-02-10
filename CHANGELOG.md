@@ -15,7 +15,7 @@
 - ScractchWeather will be in private beta until further notice
 - Added tempature information (in metric)
 - Patched so-called STE
-## Febuarary 1, 2022
+## February 1, 2022
 - Upgraded ScratchWeather to widescreen
 - Updated costumes to fit the new widescreen format
 - Added console logging
@@ -24,13 +24,16 @@
 - Changed hat block, because the bug persisted
 - Putting in a Pen Slider Engine to show progress on re-compiling the JSON
 - Upgraded Pen Slider Engine to progress bar
-## Feburary 2, 2022
+## February 2, 2022
 - Upgraded the <kbd>Ctrl</kbd> key to a TurboWarp Key
-## Feburary 3, 2022
+## Feburuary 3, 2022
 - Made new slider
 - Removed slider border
 - Added automatic refresh
-## Feburary 7, 2022
+## Feburuary 7, 2022
 - Added a backdrop fade out effect when refreshing, and a fade in effect when loaded
 - Fixed the maximum x position to be met (or exceeded) to make a line break from 220 (for 480x360 display) to 300 (640x360)
 - Added a new TurboWarp setting: Remove Fencing (did this so sprites can go over the x and y position limits)
+## Feburuary 10, 2022
+- Removed all CloudLink blocks
+- Replaced CloudLink blocks to TurboFoolishness for opening ScratchWeather on TurboWarp Desktop
