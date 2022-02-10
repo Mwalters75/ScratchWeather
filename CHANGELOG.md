@@ -29,7 +29,7 @@
 ## Feburuary 3, 2022
 - Made new slider
 - Removed slider border
-- Added automatic refresh
+- Added automatic refresh (300 seconds, or 5 minutes to avoid HTTP 429 errors)
 ## Feburuary 7, 2022
 - Added a backdrop fade out effect when refreshing, and a fade in effect when loaded
 - Fixed the maximum x position to be met (or exceeded) to make a line break from 220 (for 480x360 display) to 300 (640x360)
