@@ -37,3 +37,5 @@
 ## Feburuary 10, 2022
 - Removed all CloudLink blocks
 - Replaced CloudLink blocks to TurboFoolishness for opening ScratchWeather on TurboWarp Desktop
+## February 11, 2022
+- Made tempature more accurate by rounding
