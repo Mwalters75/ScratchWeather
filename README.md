@@ -21,4 +21,5 @@ More comming soon!
 ## Credits
 - OpenWeatherMap
 - ScratchWeather Contributors
-- Myself (Mwalters75) for the STE, Pen Slide, and TurboFoolishnessr
+- Myself (Mwalters75) for the STE, Pen Slide, and TurboFoolishness
+- TestMuffin (or GarboMuffin) for the Stage Size Measurer
