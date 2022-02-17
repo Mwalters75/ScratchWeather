@@ -42,3 +42,6 @@
 ## February 16, 2022
 - Moved repository to a GitHub org
 - Changed upstream URL in local git
+## February 17, 2022
+- Paid attribution to makers of sprites in ScratchWeather. The sprites without comments means that the sprites was made by the ScratchWeather team
+- Broadcast loading while "extract and rewrite" is being run
