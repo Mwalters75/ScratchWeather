@@ -45,3 +45,6 @@
 ## February 17, 2022
 - Paid attribution to makers of sprites in ScratchWeather. The sprites without comments means that the sprites was made by the ScratchWeather team
 - Broadcast loading while "extract and rewrite" is being run
+## February 23, 2022
+- Made the STE up-to-date by manually getting the sprite, because of new changes
+- Removed stage size measurer
