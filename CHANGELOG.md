@@ -48,3 +48,5 @@
 ## February 23, 2022
 - Made the STE up-to-date by manually getting the sprite, because of new changes
 - Removed stage size measurer
+## February 28, 2022
+- Added automatic location finding based on user's IP address (2 more APIs, 3 in total)
