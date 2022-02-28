@@ -50,3 +50,4 @@
 - Removed stage size measurer
 ## February 28, 2022
 - Added automatic location finding based on user's IP address (2 more APIs, 3 in total)
+- Made a variable called API key for better management of the API key
