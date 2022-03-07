@@ -53,3 +53,7 @@
 - Made a variable called API key for better management of the API key
 ## March 3, 2022
 - Upgraded all old fetcher blocks to (get [] using [GET v)
+## March 7, 2022
+- Renamed "extract and rewrite" to "download and rewrite"
+- Download EVERYTHING for compact usage, and less requests to the server, avoiding HTTP 429 errors
+> At this time, ScratchWeather broke, due to a single comma. It can read the API answer, but not without TurboFoolishness balking at a single comma.
