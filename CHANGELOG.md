@@ -57,3 +57,7 @@
 - Renamed "extract and rewrite" to "download and rewrite"
 - Download EVERYTHING for compact usage, and less requests to the server, avoiding HTTP 429 errors
 > At this time, ScratchWeather broke, due to a single comma. It can read the API answer, but not without TurboFoolishness balking at a single comma.
+
+> All changes made on this day was scrapped, due to the comma bug.
+## March 10, 2022
+> No testing was done during the three-day break. Today, testing and developing went back on track, and the comma bug has been fixed. The bug may have been caused by the OpenWeatherMap API, but, originally, we thought it was the new features making the bugs, thus making that the reason why everything from March 7, which basically are new features and additions to existing features.
