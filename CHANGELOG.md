@@ -61,3 +61,5 @@
 > All changes made on this day was scrapped, due to the comma bug.
 ## March 10, 2022
 > No testing was done during the three-day break. Today, testing and developing went back on track, and the comma bug has been fixed. The bug may have been caused by the OpenWeatherMap API, but, originally, we thought it was the new features making the bugs, thus making that the reason why everything from March 7, which basically are new features and additions to existing features.
+## March 16, 2022
+- Remade changes from March 7, 2022
