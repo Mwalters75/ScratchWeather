@@ -52,7 +52,7 @@
 - Added automatic location finding based on user's IP address (2 more APIs, 3 in total)
 - Made a variable called API key for better management of the API key
 ## March 3, 2022
-- Upgraded all old fetcher blocks to (get [] using [GET v)
+- Upgraded all old fetcher blocks to (get [] using [GET v])
 ## March 7, 2022
 - Renamed "extract and rewrite" to "download and rewrite"
 - Download EVERYTHING for compact usage, and less requests to the server, avoiding HTTP 429 errors
@@ -66,3 +66,10 @@
 ## April 19, 2022
 > On this day, ScratchWeather became from closed beta, to public beta.
 - Uploaded the ScratchWeather `.sb3`
+> At this time, ScratchWeather's development went back on track, after over a month of development breaks.
+
+> ScratchWeather was uploaded to GitHub for two reasons:
+> 
+> 1. To use GitHub as a backup for ScratchWeather
+> 
+> 2. Because I didn't mean to be greedy.
