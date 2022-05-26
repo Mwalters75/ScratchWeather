@@ -73,3 +73,8 @@
 > 1. To use GitHub as a backup for ScratchWeather
 > 
 > 2. Because I didn't mean to be greedy.
+## May 26, 2022
+- Performed extensive block cleanup
+- Size reduced by 40 KB
+- Loads more faster
+> Making it load faster required some blocks to be deleted.
