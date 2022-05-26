@@ -78,3 +78,5 @@
 - Size reduced by 40 KB
 - Loads more faster
 > Making it load faster required some blocks to be deleted.
+- Removed API key from `.sb3` and deactivated/deleted the key.
+- You are now required to have a OpenWeatherMap API key to use ScratchWeather. It's free, so it shouldn't be a big deal.
