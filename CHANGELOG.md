@@ -80,3 +80,8 @@
 > Making it load faster required some blocks to be deleted.
 - Removed API key from `.sb3` and deactivated/deleted the key.
 - You are now required to have a OpenWeatherMap API key to use ScratchWeather. It's free, so it shouldn't be a big deal.
+## October 9, 2022
+- Remove IP Address fetching
+- Re-enable background
+- Add city name checker
+- Add city searching
