@@ -67,7 +67,7 @@
 > On this day, ScratchWeather became from closed beta, to public beta.
 - Uploaded the ScratchWeather `.sb3`
 > At this time, ScratchWeather's development went back on track, after over a month of development breaks.
-
+>
 > ScratchWeather was uploaded to GitHub for two reasons:
 > 
 > 1. To use GitHub as a backup for ScratchWeather
@@ -85,3 +85,9 @@
 - Re-enable background
 - Add city name checker
 - Add city searching
+## January 25, 2023
+> Since ScratchWeather is turning 1 in 5 days, I thought it would be nice to dust off ScratchWeather for maintenance.
+
+- Removed STE in favor of SFE
+
+> SFE is really buggy when it comes to light and dark mode, so it wasn't fixed yet.
